@@ -1,3 +1,5 @@
+<img src="WalletKit.png" />
+
 ```
 USAGE: cli [--seed-phrase <seed-phrase>] [--passphrase <passphrase>]
 
